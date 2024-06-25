@@ -1,0 +1,7 @@
+{
+  "name": "travel-sample-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
